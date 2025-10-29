@@ -4,7 +4,7 @@ FinFusion is an intelligent investment advisory platform that combines LangChain
 
 # Demo Video
 
-![Demo Video](reduced_demo.mov)
+https://github.com/Nm090201/RebalanceAI-FinFusion/blob/main/reduced_demo.mov
 
 
 Features
