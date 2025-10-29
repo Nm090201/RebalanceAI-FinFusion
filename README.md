@@ -2,6 +2,11 @@ FinFusion - AI-Powered Portfolio Optimization Agent 📈
 
 FinFusion is an intelligent investment advisory platform that combines LangChain agents, real-time market data, and historical analysis to provide personalized portfolio recommendations and stock insights.
 
+# Demo Video
+
+![Demo Video](reduced_demo.mov)
+
+
 Features
 1. AI Chat Agent 
 - Conversational AI advisor powered by OpenAI GPT or Google Gemini
